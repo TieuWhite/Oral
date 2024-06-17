@@ -1,0 +1,14 @@
+.Ass1 {
+    color: green;
+}
+
+.Ass6 {
+    width: 300px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.Ass6-btn {
+    padding: 10px;
+    background-color: grey;
+}
